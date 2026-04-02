@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm André Bellico 👋</h1>
+<h1 align="left">André Bellico</h1>
 
 <p align="left">
   Frontend Developer & ABAP Developer — building interfaces and SAP solutions.<br/>
