@@ -5,11 +5,11 @@
   Currently working at <strong>Plana Adhoc</strong> and <strong>HR Path</strong>, and studying Systems Analysis and Development at <strong>Uniitalo University</strong>.
 </p>
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">About Me</h2>
 
-- 🔷 **ABAP Developer** @HR Path
-- 💻 **Frontend Developer** @Plana Adhoc
-- 🎓 **Systems Analysis and Development** student @Uniitalo University
+-  **ABAP Developer** @HR Path
+-  **Frontend Developer** @Plana Adhoc
+-  **Systems Analysis and Development** student @Uniitalo University
 - 📍 Brazil
 
 <h2 align="left">🛠️ Tech Stack</h2>
